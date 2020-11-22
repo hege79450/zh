@@ -33,12 +33,5 @@
       "Weight":3449,
       "Year":"1970-01-01",
       "Origin":"USA"
-   },
-   {
-      "Name":"ford galaxie 500",
-      "Horsepower":198,
-      "Weight":4341,
-      "Year":"1970-01-01",
-      "Origin":"USA"
    }
   ]
