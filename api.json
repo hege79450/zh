@@ -22,11 +22,5 @@
       "Horsepower":150,
       "Weight":3433,
       "Year":"1970-01-01"
-   },
-   {
-      "Name":"ford torino",
-      "Horsepower":140,
-      "Weight":3449,
-      "Year":"1970-01-01"
    }
-  ]
+]
